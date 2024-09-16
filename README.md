@@ -1,4 +1,4 @@
-# Todo Composition 練習
+# Vue Composition (todolist)練習
 
 此檔案```todo-training.js```才是練習版本
 
